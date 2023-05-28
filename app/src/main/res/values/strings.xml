@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Forecast App</string>
+    <string name="please_search_for_a_city">Please, search for a city</string>
+    <string name="forecast_temp_message">%s °C</string>
+</resources>
